@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Jahanara Fardoush
 - 👀 I’m interested in ... Programming
 - 👀 I’m a Front End Developer / Software Engineer
-- 🌱 I’m currently learning ... React
 - 💞️ I’m looking to collaborate on programmer
 - 📫 How to reach me_
 - Linkdin :  https://www.linkedin.com/in/jahanara-fardoush-401193181/
